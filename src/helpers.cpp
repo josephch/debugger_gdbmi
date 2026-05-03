@@ -12,6 +12,7 @@
 #include "cbstyledtextctrl.h"
 #include "logmanager.h"
 #include <wx/dir.h>
+#include "compiler.h"
 
 // ----------------------------------------------------------------------------
 namespace dbg_mi
